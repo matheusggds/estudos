@@ -12,13 +12,14 @@ Repositório para organizar tecnologias já conhecidas, quais estão em alta no 
 - Angular
 - Git
 
-### Aprimorando
+### Acompanhando / Aprimorando / Estudando
 - Angular
 - Angular 2
 - React
 - Redux
 - Webpack
 - Yeoman
+- Jekyll
 
 ### Outras expêriencias
 - Ionic
