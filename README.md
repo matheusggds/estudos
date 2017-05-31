@@ -8,7 +8,7 @@ Repositório para organizar tecnologias já conhecidas, quais estão em alta no 
 - Gulp/Grunt
 - Sass/Less
 - NPM/Bower
-- Javascript
+- Javascript/jQuery
 - Angular
 - Git
 
@@ -26,3 +26,4 @@ Repositório para organizar tecnologias já conhecidas, quais estão em alta no 
 - Wordpress
 - Joomla
 - Laravel/Codeigniter
+- Foundation
