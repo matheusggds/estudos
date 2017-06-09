@@ -9,6 +9,7 @@ Repositório para organizar tecnologias já conhecidas, quais estão em alta no 
 - Sass/Less
 - NPM/Bower
 - Javascript/jQuery
+- Wordpress
 - Angular
 - Git
 
@@ -24,7 +25,6 @@ Repositório para organizar tecnologias já conhecidas, quais estão em alta no 
 ### Outras expêriencias
 - Ionic
 - Cordova
-- Wordpress
 - Joomla
 - Laravel/Codeigniter
 - Foundation
