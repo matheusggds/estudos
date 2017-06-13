@@ -21,6 +21,8 @@ Repositório para organizar tecnologias já conhecidas, quais estão em alta no 
 - Webpack
 - Yeoman
 - Jekyll
+- Yarn
+- JHipster
 
 ### Outras expêriencias
 - Ionic

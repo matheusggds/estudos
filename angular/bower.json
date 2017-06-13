@@ -1,0 +1,17 @@
+{
+  "name": "angular-test-project",
+  "description": "Testes com angular",
+  "main": "index.js",
+  "authors": [
+    "Matheus Gomide"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/matheusggds/estudos",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
