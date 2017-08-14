@@ -2,16 +2,17 @@
 Repositório para organizar tecnologias já conhecidas, quais estão em alta no mercado, tecnologias já estudadas, que pretendo estudar, ou as quais ja tive expêriencia.
 
 ### Utilizando diariamente
-- HTML/HTML5
-- CSS/CSS3
-- Bootstrap/Bootstrap 4
-- Gulp/Grunt
-- Sass/Less
-- NPM/Bower
 - Javascript/jQuery
-- Wordpress
+- ES6
+- Sass
+- HTML5
+- CSS3
+- Bootstrap 4
+- Gulp
+- NPM/Bower
 - Angular
 - Git
+- VS Code
 
 ### Acompanhando / Aprimorando / Estudando
 - Angular
@@ -22,10 +23,10 @@ Repositório para organizar tecnologias já conhecidas, quais estão em alta no 
 - Yeoman
 - Jekyll
 - Yarn
-- JHipster
 
-### Outras expêriencias
+### Expêriencias
 - Ionic
+- Wordpress
 - Cordova
 - Joomla
 - Laravel/Codeigniter
