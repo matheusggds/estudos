@@ -2,7 +2,8 @@
 Repositório para organizar tecnologias já conhecidas, quais estão em alta no mercado, tecnologias já estudadas, que pretendo estudar, ou as quais ja tive expêriencia.
 
 ### Utilizando diariamente
-- Javascript/jQuery
+- Javascript
+- JQuery
 - ES6
 - Sass
 - HTML5
@@ -10,6 +11,7 @@ Repositório para organizar tecnologias já conhecidas, quais estão em alta no 
 - Bootstrap 4
 - Gulp
 - NPM/Bower
+- Web Progressive App
 - Angular
 - Git
 - VS Code
@@ -18,7 +20,7 @@ Repositório para organizar tecnologias já conhecidas, quais estão em alta no 
 - Angular
 - Angular 2
 - React
-- Redux
+- React Native
 - Webpack
 - Yeoman
 - Jekyll
