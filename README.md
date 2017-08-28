@@ -11,15 +11,14 @@ Repositório para organizar tecnologias já conhecidas, quais estão em alta no 
 - Bootstrap 4
 - Gulp
 - NPM/Bower
+- React
 - Progressive Web App
-- Angular
 - Git
 - VS Code
 
 ### Acompanhando / Aprimorando / Estudando
 - Angular
 - Angular 2
-- React
 - React Native
 - Webpack
 - Yeoman
