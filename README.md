@@ -1,7 +1,7 @@
 # Estudos
 Repositório para organizar tecnologias já conhecidas, quais estão em alta no mercado, tecnologias já estudadas, que pretendo estudar, ou as quais ja tive expêriencia.
 
-### Utilizando diariamente
+### Sempre
 - Javascript
 - JQuery
 - ES6
@@ -11,24 +11,24 @@ Repositório para organizar tecnologias já conhecidas, quais estão em alta no 
 - Bootstrap 4
 - Gulp
 - NPM/Bower
-- React
-- Progressive Web App
+- PWA
 - Git
 - VS Code
 
-### Acompanhando / Aprimorando / Estudando
+### Quase sempre
 - Angular
+- React
+- Ionic
 - Angular 2
 - React Native
 - Webpack
-- Yeoman
-- Jekyll
-- Yarn
 
-### Expêriencias
-- Ionic
+### De vez em quando
 - Wordpress
 - Cordova
 - Joomla
 - Laravel/Codeigniter
 - Foundation
+- Yeoman
+- Jekyll
+- Yarn
