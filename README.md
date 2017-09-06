@@ -1,34 +1,33 @@
 # Estudos
 Repositório para organizar tecnologias já conhecidas, quais estão em alta no mercado, tecnologias já estudadas, que pretendo estudar, ou as quais ja tive expêriencia.
 
-### Sempre
+### Muita expêriencia
 - Javascript
 - JQuery
-- ES6
 - Sass
 - HTML5
 - CSS3
-- Bootstrap 4
+- Bootstrap
 - Gulp
 - NPM/Bower
-- PWA
 - Git
-- VS Code
+- VS Code / Sublime
+- Wordpress
+- ES6
 
-### Quase sempre
+### Boa expêriencia
 - Angular
-- React
+- PWA
+- Service Workers
 - Ionic
+- Cordova
 - Angular 2
+- React
 - React Native
 - Webpack
 
-### De vez em quando
-- Wordpress
-- Cordova
+### Alguma expêriencia
 - Joomla
 - Laravel/Codeigniter
 - Foundation
-- Yeoman
 - Jekyll
-- Yarn
